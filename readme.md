@@ -53,7 +53,7 @@ This theme provides some personalized graphic and text layout solutions. For spe
 
 ![性化图文排列](./img/mdmdt-layout.png)
 
-# How to use it
+# Usage
 
 Using custom themes is very simple, as follows:
 
