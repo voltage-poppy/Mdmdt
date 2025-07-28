@@ -236,8 +236,9 @@ strong {
 }
 
 u {
+  text-decoration-color: red;
   text-underline-offset: 4px;
-  text-decoration-thickness: 1.5px;
+  text-decoration-thickness: 0.5px;
 }
 
 em {
